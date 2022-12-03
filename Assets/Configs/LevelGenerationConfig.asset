@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1be00d59c21d4576a285249a814a1469, type: 3}
+  m_Name: LevelGenerationConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 6910814721701141632, guid: c4446ebeab5a21d4fbda305e15bc66e7, type: 3}
+    - {fileID: 1162332056940980271, guid: a53cf92f54eb3584e90d6bbce1bbd769, type: 3}
+    - {fileID: 1165362237474047261, guid: 565883c30e70f324896752c6744ecdd6, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: <FeedPercentTable>k__BackingField
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[Item, Assembly-CSharp],[System.Single,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.ObjectEqualityComparer`1[[Item, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 10
+      Data: 0
+    - Name: $v
+      Entry: 4
+      Data: 55
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 10
+      Data: 1
+    - Name: $v
+      Entry: 4
+      Data: 30
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 10
+      Data: 2
+    - Name: $v
+      Entry: 4
+      Data: 15
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  <BoosterSpawnChance>k__BackingField: 10
+  <BoosterList>k__BackingField:
+  - {fileID: 7178547412025390515, guid: 30b0a0fa90b9f5647930555926dcf8f9, type: 3}
+  - {fileID: 1372677029002465909, guid: ec9308977fe955242acf2b79b99e31c3, type: 3}
+  - {fileID: 3114038135763802743, guid: 90dedb2498946014680eb4deb95d8bf3, type: 3}
+  - {fileID: 553558784411252727, guid: 113197fd867af064b9d17b6bc4b7c132, type: 3}
+  - {fileID: 5553407410267889824, guid: 392c4abeec3a62e4197d683e3d92bd47, type: 3}
+  - {fileID: 4698722367360624050, guid: 82a8ee8d10da84a47a898c616628ff97, type: 3}
+  <ObjectsCount>k__BackingField: 4000
