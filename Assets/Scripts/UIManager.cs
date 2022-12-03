@@ -15,10 +15,9 @@ public class UIManager : MonoBehaviour
     [SerializeField] private float _showingPermBoosterTime = 2;
     [SerializeField] private float _scoreSettingTime = 2;
 
-    private int _currentScore;
-
     [SerializeField] private Player.Player player;
-
+    
+    private int _currentScore;
     private Coroutine _showingCoroutine;
 
     private void OnEnable()

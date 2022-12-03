@@ -15,11 +15,11 @@ public class LevelGenerator : MonoBehaviour
     
     private void Awake()
     {
-        FillFeedList();
+        InitFeedList();
         GenerateLevel();
     }
 
-    private void FillFeedList()
+    private void InitFeedList()
     {
         foreach (var pair in _config.FeedPercentTable)
         {
